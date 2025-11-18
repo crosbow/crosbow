@@ -1,7 +1,7 @@
 <div align="left">
 
   <p>
-     <a target="_blank" href="https://jubayerahmed1.vercel.app">
+     <!-- <a target="_blank" href="https://jubayerahmed1.vercel.app"> -->
     <img src="https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=github&logoColor=white" />
   </a>
     <a href="https://www.linkedin.com/in/devjubayr/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
