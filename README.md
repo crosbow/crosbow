@@ -1,4 +1,4 @@
-d<div align="left">
+<div align="left">
 
   <p>
      <a target="_blank" href="https://devjubayr.vercel.app/">
