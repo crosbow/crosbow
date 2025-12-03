@@ -1,11 +1,11 @@
-<div align="left">
+d<div align="left">
 
   <p>
-     <!-- <a target="_blank" href="https://jubayerahmed1.vercel.app"> -->
+     <a target="_blank" href="https://devjubayr.vercel.app/">
     <img src="https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=github&logoColor=white" />
   </a>
     <a href="https://www.linkedin.com/in/devjubayr/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:jubayerahmed.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="mailto:devjubayr@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
 
 <img src="https://i.pinimg.com/736x/62/b0/a0/62b0a032b4d86127eaa200dc44dd59cb.jpg" height="300" width="100%">
